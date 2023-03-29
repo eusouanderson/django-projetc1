@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
    <head>
-      
+
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="author" content="Anderson B.O.B">
@@ -17,9 +17,9 @@
       <nav class="page-navbar" id="page-navbar" data-spy="affix" data-offset-top="5">
         <ul class="nav-navbar" id="navbarone">
         <a href="#" class="bt1">About </a>
-        <a href="#skills" class="bt1" onclick="ScrollBar()">Skills </a>
+        <a href="#skills" class="bt1" >Skills </a>
         <a href="#certificate" class="bt1">Certificates</a>
-        <a href="#contact" class="bt1">Contact </a> 
+        <a href="#contact" class="bt1">Contact </a>
       </nav>
 
    <header class="header">
@@ -29,7 +29,7 @@
       <p > </p>
       </div>
    </header><!-- end of page header -->
-      
+
    <section class="position-static"   id="skills">
       <p><h2>Frontend </h2></p>
       <div class="front" align="center"data-anime="left" >
@@ -65,20 +65,20 @@
       <b href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="35" height="35" /></b><td>
       <b href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib.org" width="60" height="35" /></b>
       <b href="https://networkx.org/" target="_blank"><img style="margin: 10px" src="https://networkx.org/_static/networkx_logo.svg" alt="networkx.org" width="60" height="35" /></b><td>
-      </table>  
+      </table>
       </div>
       <h2>Others</h2>
       <div class="front" align="center" data-anime="rigth">
       <table><td>
-      <b href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="35" /></b> 
-      <b href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="35" height="35" /></b>  
-      <b href="https://www.arduino.cc/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="35" height="35" /></b>  
-      <b href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="35" height="35" /></b>  
-      <b href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" width="35" height="35" /></b>  
-      <b href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="80" height="35" /></b>  
-      <b href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" width="35" height="35" /></b>  
+      <b href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="35" /></b>
+      <b href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="35" height="35" /></b>
+      <b href="https://www.arduino.cc/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="35" height="35" /></b>
+      <b href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="35" height="35" /></b>
+      <b href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" width="35" height="35" /></b>
+      <b href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="80" height="35" /></b>
+      <b href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" width="35" height="35" /></b>
       <b href="https://www.android.com" target="_blank"><img src="https://freepngimg.com/thumb/android/127007-logo-android-pic-download-hd.png" alt="Android" width="80" height="35" /></b>
-      <b href="https://neocities.org/" target="_blank"><img src="https://neocities.org/img/cat.png" alt="Android" width="40" height="40" /></b>  
+      <b href="https://neocities.org/" target="_blank"><img src="https://neocities.org/img/cat.png" alt="Android" width="40" height="40" /></b>
       </table>
       </div>
    </section>
@@ -87,30 +87,30 @@
       <img src=https://hermes.digitalinnovation.one/assets/diome/logo.svg alt=DIO height="180" width="250"/>
       <table>
       <div align="center">
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/14E9CE76"cer_id=22" target="_blank">Acceleration Test Automation #TQI</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/49BF3680"cer_id=22" target="_blank">Types of tests and automation strategies</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/68126696"cer_id=22" target="_blank">API automation with Rest Assured and Kotlin</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/BE2C3226"cer_id=22" target="_blank">Mobile automation with Appium</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/D422208F"cer_id=22" target="_blank">QA's role in an agile team</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/10354660"cer_id=22" target="_blank">Performance Test Automation with Gatling</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/4135CD2E"cer_id=22" target="_blank">Introduction to the Linux Operating System</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/1B0F3BB2"cer_id=22" target="_blank">Creating Your First Repository on GitHub to Share Your Progress</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/90C03DB9"cer_id=22" target="_blank">Introduction to Git and GitHub</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/A6D6FCD7"cer_id=22" target="_blank">Introduction to Programming and Computational Thinking</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/0D499AA1"cer_id=22" target="_blank">Introdução ao Desenvolvimento Moderno de Software</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/84A5B1BB"cer_id=22" target="_blank">Introduction to Modern Software Development</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/0E08DB03"cer_id=22" target="_blank">Discover DIO's Opportunities</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/EB610E8F"cer_id=22" target="_blank">Applying the REST Architectural Style with Node.js</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/AFCD1175"cer_id=22" target="_blank">Introduction to programming with Python</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/E9D1DFF6"cer_id=22" target="_blank">Introduction to Data Science</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/1FF04A57"cer_id=22" target="_blank">Hands-On Challenge: Introduction to Flask Testing</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/28C90DFF"cer_id=22" target="_blank">Hands-on challenge: Extracting data from the web with Python</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/B800BDDB"cer_id=22" target="_blank">ETL fundamentals with Python</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/EC703C76" cer_id=22" target="_blank">Creating Your Development Environment in Python</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/77235813" cer_id=22" target="_blank">Adding Security to b REST API with Spring Security</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/A07BC099" cer_id=22" target="_blank">Installing and Configuring Visual Studio Code</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/F962FEDF" cer_id=22" target="_blank">Introduction to IDEs and .NET Environment Configuration</b></div><div> 
-      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/6280A655" cer_id=22" target="_blank">Tech Career: How to Decide Between Front-end, Back-end and Fullstack</b></div><div> 
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/14E9CE76"cer_id=22" target="_blank">Acceleration Test Automation #TQI</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/49BF3680"cer_id=22" target="_blank">Types of tests and automation strategies</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/68126696"cer_id=22" target="_blank">API automation with Rest Assured and Kotlin</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/BE2C3226"cer_id=22" target="_blank">Mobile automation with Appium</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/D422208F"cer_id=22" target="_blank">QA's role in an agile team</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/10354660"cer_id=22" target="_blank">Performance Test Automation with Gatling</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/4135CD2E"cer_id=22" target="_blank">Introduction to the Linux Operating System</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/1B0F3BB2"cer_id=22" target="_blank">Creating Your First Repository on GitHub to Share Your Progress</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/90C03DB9"cer_id=22" target="_blank">Introduction to Git and GitHub</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/A6D6FCD7"cer_id=22" target="_blank">Introduction to Programming and Computational Thinking</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/0D499AA1"cer_id=22" target="_blank">Introdução ao Desenvolvimento Moderno de Software</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/84A5B1BB"cer_id=22" target="_blank">Introduction to Modern Software Development</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/0E08DB03"cer_id=22" target="_blank">Discover DIO's Opportunities</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/EB610E8F"cer_id=22" target="_blank">Applying the REST Architectural Style with Node.js</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/AFCD1175"cer_id=22" target="_blank">Introduction to programming with Python</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/E9D1DFF6"cer_id=22" target="_blank">Introduction to Data Science</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/1FF04A57"cer_id=22" target="_blank">Hands-On Challenge: Introduction to Flask Testing</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/28C90DFF"cer_id=22" target="_blank">Hands-on challenge: Extracting data from the web with Python</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/B800BDDB"cer_id=22" target="_blank">ETL fundamentals with Python</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/EC703C76" cer_id=22" target="_blank">Creating Your Development Environment in Python</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/77235813" cer_id=22" target="_blank">Adding Security to b REST API with Spring Security</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/A07BC099" cer_id=22" target="_blank">Installing and Configuring Visual Studio Code</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/F962FEDF" cer_id=22" target="_blank">Introduction to IDEs and .NET Environment Configuration</b></div><div>
+      <div ><b class="link_certificado" href="https://certificates.digitalinnovation.one/6280A655" cer_id=22" target="_blank">Tech Career: How to Decide Between Front-end, Back-end and Fullstack</b></div><div>
       <div ><b class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3153&amp;student_id=51569&amp;cer_id=22" target="_blank">Advancing with Deep Learning</b>
       <div ><b class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3154&amp;student_id=51569&amp;cer_id=24" target="_blank">Introduction to the Internet of Things</b>
       <div ><b class="link_certificado" href="http://srv.oceanbrasil.com:8000/index.php?r=student/certificate&amp;event_id=3155&amp;student_id=51569&amp;cer_id=24" target="_blank">[FULLSTACK JOURNEY] Backend with NodeJs and Express (Part 1)</b>
@@ -156,7 +156,7 @@
          <div class="links">
             <img src= "https://avatars.githubusercontent.com/u/55605767?s=96&v=4" alt="Avatar" width="55" height="50" >
            <script>document.write(new Date().getFullYear())</script>
-           , Made with <i class="ti-heart text-danger"></i> by 
+           , Made with <i class="ti-heart text-danger"></i> by
            <a class="bt1" href="https://github.com/eusouanderson">B.O.B </a>
       </div>
       </footer><!-- end of footer -->

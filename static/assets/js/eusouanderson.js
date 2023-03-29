@@ -19,12 +19,7 @@ window.addEventListener("scroll", ()=>{
   animeScroll();
 });
 // Scroll bar Automatize
-function ScrollBar() {
-    
-    console.log(windowTop);
-    
 
-}
 
 //Mobile function
 
